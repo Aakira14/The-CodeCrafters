@@ -6,8 +6,8 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 ## Team To-Do list
 - [x] ~~4th member issue resolved~~
 - [x] ~~Next meeting agendas documented in planning doc~~
-- [ ] 15/04/2026 General overiew meeting with Rahul and Aakira. Joden couldn't join!
-- [ ] 18/04/2026 General overiew meeting with Joden and Aakira. Rahul couldn't join!
+- [ ] 15/04/2026 General overiew meeting with Rahul and Aakira. Jaden couldn't join!
+- [ ] 18/04/2026 General overiew meeting with Jaden and Aakira. Rahul couldn't join!
 
 
 ### Abstract
@@ -20,5 +20,5 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 ### Team Members
 1. [Rahul Pagare](https://github.com/RahulPagare20)
 2. [Akhira Khot](https://github.com/aakira14)
-3. Joden Kongs
+3. Jaden Kong
 
