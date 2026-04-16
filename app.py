@@ -47,3 +47,30 @@ def codecrafters_pr_png():
     global cwd, project_dir
     return send_file(
         f'/home/RahulP/CodeCrafters/images/codecrafters_pr.png')
+
+@app.route('/images/jaden_pfp.jpg')
+def jaden_pfp_jpg():
+    global cwd, project_dir
+    return send_file(
+        f'/home/RahulP/CodeCrafters/images/jaden_pfp.jpg')
+
+@app.route('/images/aakira_pfp.png')
+def aakira_pfp_png():
+    global cwd, project_dir
+    return send_file(
+        f'/home/RahulP/CodeCrafters/images/aakira_pfp.png')
+
+@app.route('/images/rahul_pfp.png')
+def rahul_pfp_png():
+    global cwd, project_dir
+    return send_file(
+        f'/home/RahulP/CodeCrafters/images/rahul_pfp.png')
+
+
+
+
+@app.route('/images/codecrafters_pfp.png')
+def codecrafters_pfp():
+    global cwd, project_dir
+    return send_file(
+        f'/home/RahulP/CodeCrafters/images/codecrafters_pfp.png')
