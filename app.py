@@ -106,10 +106,17 @@ if not os.path.exists('/home/RahulP/CodeCrafters/RegisteredUsers.db'):
         pickle.dump(lll, tp)
 
 
+@app.errorhandler(404)
+def page_not_found(err):
+    return "<H1>That page wasn't found on our servers.</H1><a href='/'>Click here to go to the home page.</a>"
+
+
+
+
 @app.before_request
 def before_req_check():
     global authenticate
-    allowed_paths = ["/inner/server/login", '/inner/stylesheet/style_index.html.css']
+    allowed_paths = ["/inner/server/login", '/images/codecrafters_pr.png']#, '/inner/stylesheet/style_index.html.css']
     if authenticate:
         if request.path not in allowed_paths:
             allow = False

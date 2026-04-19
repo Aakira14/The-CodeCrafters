@@ -7,7 +7,9 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 - [x] ~~4th member issue resolved~~
 - [x] ~~Next meeting agendas documented in planning doc~~
 - [x] ~~15/04/2026 General overiew meeting with Rahul and Aakira. Jaden couldn't join!~~
-- [ ] 18/04/2026 General overiew meeting with Jaden and Aakira. Rahul couldn't join!
+- [x] ~~18/04/2026 General overiew meeting with Jaden and Aakira. Jaden couldn't join again (Pointless meeting)~~
+- [x] 25/04/2026 GETTING TO KNOW JADEN MEETING.
+- [x] Recitification of the 4th member dilemma.
 
 
 ### Abstract
