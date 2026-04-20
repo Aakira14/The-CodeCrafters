@@ -1,1 +1,1 @@
-git add *; git commit -m "readme.md update"; git push -u origin main --force
+git add *; git commit -m "<pl add your commit message here>"; git push -u origin main --force
