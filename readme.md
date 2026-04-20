@@ -24,5 +24,4 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 ### Team Members
 1. [Rahul Pagare](https://github.com/RahulPagare20)
 2. [Aakira Khot](https://github.com/aakira14)
-3. [Jaden Kang] (https://github.com/jadenk2016)
-
+3. [Jaden Kang](https://github.com/jadenk2016)
