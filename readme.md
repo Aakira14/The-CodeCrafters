@@ -1,7 +1,9 @@
 # The CodeCrafters
 
 ## Team Brainstorming
-Planning is well documented in [CodeCrafters_steminate Planning](https://docs.google.com/document/d/1DJAAY-Gr5SUQTV3hp6u0bYbxgRa1WvIyKnyuQeY4MTg/edit?usp=sharing).
+- Planning is well documented in [CodeCrafters_steminate Planning](https://docs.google.com/document/d/1DJAAY-Gr5SUQTV3hp6u0bYbxgRa1WvIyKnyuQeY4MTg/edit?usp=sharing).
+- [Official steminate hackathon website](https://steminate-hacks-2026.devpost.com/)
+
 
 ## Team To-Do list
 - [x] ~~4th member issue resolved~~
