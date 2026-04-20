@@ -7,7 +7,7 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 - [x] ~~4th member issue resolved~~
 - [x] ~~Next meeting agendas documented in planning doc~~
 - [x] ~~15/04/2026 General overiew meeting with Rahul and Aakira. Jaden couldn't join!~~
-- [x] ~~18/04/2026 General overiew meeting with Rahul Aakira. Jaden couldn't join again (Pointless meeting)~~
+- [x] ~~18/04/2026 General overiew meeting with Rahul and Aakira. Jaden couldn't join again (Pointless meeting)~~
 - [x] ./git_push created for aakira and jaden. NOTE: Pythonanywhere doesn't really allow unsupervised execution of any shell script. Cat, copy, paste, enter. No other option.
 - [ ] 25/04/2026 GETTING TO KNOW JADEN meeting.
 - [ ] Waiting for the fortunate reply of Aakira's friend for fourth member.
